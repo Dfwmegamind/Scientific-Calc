@@ -1,0 +1,14 @@
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.AssemblyInfoInputs.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.AssemblyInfo.cs
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.csproj.CoreCompileInputs.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\bin\Debug\net6.0\Scentific Calculator Console.exe
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\bin\Debug\net6.0\Scentific Calculator Console.deps.json
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\bin\Debug\net6.0\Scentific Calculator Console.runtimeconfig.json
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\bin\Debug\net6.0\Scentific Calculator Console.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\bin\Debug\net6.0\Scentific Calculator Console.pdb
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\refint\Scentific Calculator Console.dll
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.pdb
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\Scentific Calculator Console.genruntimeconfig.cache
+C:\Users\Michael Olatiregun\Desktop\C# stuff\Scentific Calculator Console\Scentific Calculator Console\obj\Debug\net6.0\ref\Scentific Calculator Console.dll
